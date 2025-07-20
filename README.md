@@ -56,6 +56,5 @@ This approach allows us to visualize:
 
 MIT License — free to use, modify, and share.
 
-```
 
 
